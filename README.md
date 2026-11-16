@@ -2,7 +2,7 @@
 
 **[Live demo](https://alpuneeth.github.io/Calculator/)**
 
-![Calculator screenshot](images/Cal_ss.png.png) 
+![Calculator screenshot](images/Cal_ss.png) 
 
 A browser-based calculator built as part of [The Odin Project](https://www.theodinproject.com/) Foundations curriculum. It supports basic arithmetic operations, chained calculations, keyboard input, and dynamic display sizing, with a custom pastel-themed UI and kawaii cat wallpaper.
 
